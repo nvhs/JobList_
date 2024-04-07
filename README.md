@@ -37,7 +37,7 @@ To view your saved job links:
 
 ## Author
 
-Harisahan N.Venkata
+Harisahan N. Venkata
 
 ## Support
 
