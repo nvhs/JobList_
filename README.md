@@ -12,7 +12,7 @@ JobList is a personal Chrome extension designed to help job seekers streamline t
 
 ## Screenshot
 
-![JobList Chrome Extension in action](./path-to-screenshot)
+![JobList Chrome Extension in action](./JobList.png)
 
 ## Installation
 
