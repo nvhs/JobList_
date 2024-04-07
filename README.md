@@ -41,5 +41,5 @@ Harisahan N.Venkata
 
 ## Support
 
-For support, email [harisahan@gmail.com] or raise an issue on the GitHub project page.
+For support, email: harisahan@gmail.com or raise an issue on the GitHub project page.
 
