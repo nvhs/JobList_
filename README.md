@@ -34,15 +34,12 @@ To view your saved job links:
 2. A list of saved jobs will be displayed.
 3. Click on a link to navigate to the job listing or use the delete option to remove it from the list.
 
-## License
-
-[MIT License](./LICENSE)
 
 ## Author
 
-[Your Name]
+Harisahan N.Venkata
 
 ## Support
 
-For support, email [your-email@example.com] or raise an issue on the GitHub project page.
+For support, email [harisahan@gmail.com] or raise an issue on the GitHub project page.
 
